@@ -1,3 +1,4 @@
 nginx
 minio/minio
 rabbitmq
+rabbitmq:management
