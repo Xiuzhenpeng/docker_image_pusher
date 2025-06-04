@@ -1,4 +1,1 @@
-minio/minio
-rabbitmq
-redis
 filebrowser/filebrowser
