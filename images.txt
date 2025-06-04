@@ -3,3 +3,4 @@ minio/minio
 rabbitmq
 rabbitmq:management
 redis
+filebrowser
